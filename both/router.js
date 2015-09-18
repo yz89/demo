@@ -40,4 +40,7 @@ Router.map(function() {
   this.route('tabs.three', {path: '/tabs/three', layoutTemplate: 'tabsLayout'});
   this.route('tabs.four', {path: '/tabs/four', layoutTemplate: 'tabsLayout'});
   this.route('userAccounts');
+  this.route('reactSlick');
+  this.route('halogen');
+  this.route('reactTour');
 });
